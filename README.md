@@ -13,8 +13,8 @@
 
 ## Submitted by:
 
-#### **Nur Nafis Fuad**
-#### Roll: 2210032
+#### **Sanumong Marma**
+#### Roll: 2210061
 #### Department of Electrical and Computer Engineering
 #### Rajshahi University of Engineering and Technology
 
