@@ -1,6 +1,5 @@
-
-## Course code:  ECE - 2112
-## Course name: Digital Techniques Sessional
+## *Course code:  ECE - 2112*
+## *Course name: Digital Techniques Sessional*
 <br>
 
 ## Submitted to: 
