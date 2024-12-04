@@ -11,7 +11,7 @@
 <br>
 
 ## Submitted to : 
-### **Md. Omaer Faruq Goni**
+### Md. Omaer Faruq Goni
 ### Assistant Professor
 ### Department of Electrical and Computer Engineering
 ### Rajshahi University of Engineering and Technology
@@ -20,7 +20,7 @@
 
 ## Submitted by :
 
-### **Sanumong Marma**
+### Sanumong Marma
 ### Roll : 2210061
 ### Department of Electrical and Computer Engineering
 ### Rajshahi University of Engineering and Technology
