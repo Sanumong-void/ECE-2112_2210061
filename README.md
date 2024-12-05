@@ -1,6 +1,6 @@
 <div align="center">
   
-  <img src="https://www.newagebd.com/files/records/news/202308/210712_166.jpg" width="500" height="300">
+ <img src="https://www.newagebd.com/files/records/news/202308/210712_166.jpg" width="500" height="300">
   
 </div>
 <div align="center">
