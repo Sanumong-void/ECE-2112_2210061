@@ -31,7 +31,7 @@
 
 | Lab No. | Title | Link |
 | :---: | :---: | :---: |
-| 01 |   | [Lab 01]()
+| 01 | Introduction of Logic Gates  | [Lab 01](https://github.com/Sanumong-void/ECE-2112_2210061/tree/main/LAB%2001)
 | 02 |   | [Lab 02]()
 | 03 |   | [Lab 03]()
 | 04 |   | [Lab 04]()
