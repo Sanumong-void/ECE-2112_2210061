@@ -32,7 +32,7 @@
 | Lab No. | Title | Link |
 | :---: | :---: | :---: |
 | 01 | Introduction of Logic Gates  | [Lab 01](https://github.com/Sanumong-void/ECE-2112_2210061/tree/main/LAB%2001)
-| 02 |   | [Lab 02]()
+| 02 |  4 bit adder subtractor | [Lab 02](https://github.com/Sanumong-void/ECE-2112_2210061/tree/main/Lab%202)
 | 03 |   | [Lab 03]()
 | 04 |   | [Lab 04]()
 | 05 |   | [Lab 05]()
