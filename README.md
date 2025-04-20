@@ -35,4 +35,4 @@
 | 02 |  4 bit adder subtractor | [Lab 02](https://github.com/Sanumong-void/ECE-2112_2210061/tree/main/Lab%202)
 | 03 | 3 to 8 decoder and 4 to 1 mux  | [Lab 03](https://github.com/Sanumong-void/ECE-2112_2210061/tree/main/Lab%2003)
 | 04 | 7 Segment display Decoder  | [Lab 04](https://github.com/Sanumong-void/ECE-2112_2210061/tree/main/Lab%2004)
-| 05 | Design and implement a Programmable Logic Array (PLA) using basic logic gates in the Deeds Digital Circuit Simulator (Deeds-DcS).   | [Lab 05]()
+| 05 | Programmable Logic Array (PLA)   | [Lab 05]()
