@@ -36,4 +36,4 @@
 | 03 | 3 to 8 decoder and 4 to 1 mux  | [Lab 03](https://github.com/Sanumong-void/ECE-2112_2210061/tree/main/Lab%2003)
 | 04 | 7 Segment display Decoder  | [Lab 04](https://github.com/Sanumong-void/ECE-2112_2210061/tree/main/Lab%2004)
 | 05 | Programmable Logic Array (PLA)  | [Lab 05](https://github.com/Sanumong-void/ECE-2112_2210061/tree/main/Lab%2005)
-| 06 | MOD-12 and 1,3,5,7..1 synchronus counter | [Lab 06]()
+| 06 | MOD-12 and 1,3,5,7..1 synchronus counter | [Lab 06](https://github.com/Sanumong-void/ECE-2112_2210061/tree/main/Lab%2006)
